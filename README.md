@@ -23,6 +23,10 @@ A : Example ( Note - There is no empty lines )
 ---------------------------------
 
 
+Q : Is JavaDoc included ?
+A : Yes, pleaes see the index.html inside docs folder
+
+
 Q : Are there test cases included
 A : Yes, Test cases for main Computating classes - DiscountMainAppTest and BusinessRulesTest are included.
 
