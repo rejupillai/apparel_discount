@@ -49,5 +49,6 @@ Q : How are Business rules loaded
 A : Business Rules pertaining to Brand and Categories are stored in respective HashMaps and initialzied throuh a Static block of code.
 
 
-
+Q : Is Exception handled ?
+A : Handled for Input Validation and Choosing a non existing Product from the list of available Products
 
