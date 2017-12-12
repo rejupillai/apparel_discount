@@ -8,20 +8,8 @@ Q :  How to run the applcation ?
 A :  Run the DiscountMainApp  class 
 
 Q :  How to provide inputs on STDIN ?
-A : Example ( Note - There is no empty lines )
-
-----------------------------------
-5
-1,Arrow,Shirts,800
-2,Vero Moda,Dresses,1400
-3,Provogue,Footwear,1800
-4,Wrangler,Jeans,2200
-5,UCB,Shirts,1500
-2
-1,2,3,4
-1,5
----------------------------------
-
+A :  Please refer to the attached Results.PNG for the sample inouts Example ( Note - There is no empty lines )
+   
 
 Q : Is JavaDoc included ?
 A : Yes, pleaes see the index.html inside docs folder
@@ -35,7 +23,6 @@ A : Output of a sample run is captured in Results.PNG
 
 Q : What are the main design features ?
 A : 
-
 - Modularization and Extensibility by defining some of the data in their respective Domain objects, even though it can be done without it.
 - Category has ParentCategories,  The ParentCategory of ROOT Category is null
 - The max discount logic is 
