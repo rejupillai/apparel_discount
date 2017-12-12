@@ -13,7 +13,7 @@ import com.socgen.challenge.apparel.domain.Category;
 import com.socgen.challenge.apparel.domain.Discount;
 import com.socgen.challenge.apparel.domain.Product;
 
-public class TestDiscountMainApp {
+public class DiscountMainAppTest {
 
 	/**
 	 * @throws java.lang.Exception

@@ -76,7 +76,7 @@ public class Inventory {
 					flag = true;
 				}
 
-			if (flag)
+			if (!flag)
 				throw new GenericException(
 						"There is no available product corresponding to the product id " + productIds[i]);
 

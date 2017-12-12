@@ -137,7 +137,7 @@ public class DiscountMainApp {
 	public void processOutput(double[] discountedPrice) {
 
 		for (int i = 0; i < discountedPrice.length; i++)
-			System.out.println(discountedPrice[i]);
+			System.out.println((int)discountedPrice[i]);
 
 	}
 

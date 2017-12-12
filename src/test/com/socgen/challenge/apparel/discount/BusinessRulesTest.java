@@ -19,7 +19,7 @@ import com.socgen.challenge.apparel.domain.Product;
  * @author reju.pillai@gmail.com
  *
  */
-public class TestBusinessRules {
+public class BusinessRulesTest {
 
 	/**
 	 * @throws java.lang.Exception
