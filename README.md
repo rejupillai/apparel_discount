@@ -43,9 +43,8 @@ A :
 maxDiscountPercent = product.getBrand().getDiscount().getValue();
 Category category = product.getCategory();
 while (category != null) {
-
-			maxDiscountPercent = Math.max(maxDiscountPercent, category.getDiscount().getValue());
-			category = category.getParentCategory();
+	maxDiscountPercent = Math.max(maxDiscountPercent, category.getDiscount().getValue());
+	category = category.getParentCategory();
 }
 
 
